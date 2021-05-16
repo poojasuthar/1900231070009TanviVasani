@@ -992,7 +992,7 @@ ul.nav.navbar-nav li a.active::before {
     -moz-background-size: cover;
     -ms-background-size: cover;
      background-attachment: fixed;
-    padding: 5em 0;
+    padding: 10em 0;
 }
 
 .live-info {
